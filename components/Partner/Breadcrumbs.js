@@ -8,9 +8,9 @@ const Breadcrumbs = () => {
         <nav>
           <ol className="fables-breadcrumb breadcrumb px-0 py-3">
             <li className="breadcrumb-item">
-              <a href="/" className="fables-breadcrumbs-text-color">
+              <Link href="/" className="fables-breadcrumbs-text-color">
                 Trang chủ
-              </a>
+              </Link>
             </li>
             <li className="breadcrumb-item active">Khách Hàng - Đối Tác</li>
           </ol>
