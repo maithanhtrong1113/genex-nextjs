@@ -4,8 +4,8 @@ import Footer from "../components/Index/Footer";
 import Head from "next/head";
 import CarouselProduct from "../components/Product/CarouselProduct";
 import ScrollTopShare from "../components/Index/ScrollTopShare";
-import Breadcrumb from "../components/wifiMarketing/Breadcrumbs";
-import Content from "../components/wifiMarketing/Content";
+import Breadcrumb from "../components/WifiMarketing/Breadcrumbs";
+import Content from "../components/WifiMarketing/Content";
 const wifiMarketing = () => {
   return (
     <Fragment>
