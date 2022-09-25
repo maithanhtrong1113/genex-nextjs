@@ -65,7 +65,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/aruba.png"}
                   alt=""
@@ -74,7 +74,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Hãng Aruba.
@@ -86,7 +86,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo-ruckus.png"}
                   alt=""
@@ -95,7 +95,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Hãng Ruckus.
@@ -107,7 +107,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/zyxel.png"}
                   alt=""
@@ -116,7 +116,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Hãng Zyxel.
@@ -128,7 +128,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/FirmEngenius.jpg"}
                   alt=""
@@ -137,7 +137,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Hãng Engenius.
@@ -149,7 +149,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/TPLINK.svg"}
                   alt=""
@@ -158,7 +158,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Hãng TP-Link.
@@ -170,7 +170,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/ruijie.png"}
                   alt=""
@@ -179,7 +179,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Hãng Ruijie.
@@ -191,7 +191,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo-nam-a.png"}
                   alt=""
@@ -200,7 +200,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Ngân hàng Nam Á.
@@ -212,7 +212,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo-an-binh.png"}
                   alt=""
@@ -221,7 +221,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Ngân hàng An Bình.
@@ -233,7 +233,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/partner-Prudential.jpg"}
                   alt=""
@@ -242,7 +242,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Chuỗi phòng giao dịch khách hàng của Cty Shinhan Finance.
@@ -254,7 +254,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo-aeon.png"}
                   alt=""
@@ -263,7 +263,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   AEON Mall.
@@ -275,7 +275,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo-conasi.png"}
                   alt=""
@@ -284,7 +284,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Conasi (Mall, Hotel, Resort).
@@ -296,7 +296,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo-CTIN.jpeg"}
                   alt=""
@@ -305,7 +305,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Công ty cổ phần Viễn thông Tin học Bưu điện (CTIN).
@@ -317,7 +317,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/svtech.png"}
                   alt=""
@@ -326,7 +326,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Công ty Cổ phần Phát triển Công nghệ Viễn thông Tin học Sun
@@ -339,7 +339,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/one-corp.png"}
                   alt=""
@@ -348,7 +348,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Công ty Cổ phần Truyền thông Số 1.
@@ -360,7 +360,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/dong-quan.png"}
                   alt=""
@@ -369,7 +369,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Công Ty TNHH Công Nghệ Tư Vấn Thương Mại Đông Quân.
@@ -381,7 +381,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo-teknik.png"}
                   alt=""
@@ -390,7 +390,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Công Ty TNHH Teknik
@@ -402,7 +402,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo-qdtek.png"}
                   alt=""
@@ -411,7 +411,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Công ty Công nghệ Quang Dũng.
@@ -423,7 +423,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo_lehoang_07.png"}
                   alt=""
@@ -432,7 +432,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Lê Hoàng.
@@ -444,7 +444,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo-di-an.png"}
                   alt=""
@@ -453,7 +453,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Thành phố Dĩ An Bình Dương.
@@ -465,7 +465,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/logo-tan-uyen.png"}
                   alt=""
@@ -474,7 +474,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Huyện Tân Uyên Bình Dương.
@@ -486,7 +486,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/desart.jpg"}
                   alt=""
@@ -495,7 +495,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Des Arts Hotel.
@@ -507,7 +507,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/partner-PV.jpg"}
                   alt=""
@@ -516,7 +516,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Công ty phân phối Phương Việt – Nhà phân phối thiết bị
@@ -529,7 +529,7 @@ const Content = () => {
           <div className="cd-timeline-block mt-5">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/partner-line.jpg"}
                   alt=""
@@ -538,7 +538,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Đối tác về đường truyền Internet: Viettel, FPT, VNPT, CMC,
@@ -551,7 +551,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/banvien.jpg"}
                   alt=""
@@ -560,7 +560,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Công ty phần mềm Bản Viên.
@@ -572,12 +572,12 @@ const Content = () => {
           <div className="cd-timeline-block mb-5">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img src={"/images/partner/NGM.jpg"} alt="" className="w-100" />
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Hệ thống 250 điểm Free Wifi cho Công nhân lắp đặt tại tỉnh
@@ -590,7 +590,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/marker-small.jpg"}
                   alt=""
@@ -599,7 +599,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Ngoài ra còn có một số điểm nhỏ lẻ khác.
@@ -611,7 +611,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/partner/HLPD.jpg"}
                   alt=""
@@ -620,7 +620,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Khu dân cư Himlam của Cty Phú Đông Group.

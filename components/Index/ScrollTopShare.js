@@ -36,7 +36,7 @@ const ScrollTopShare = () => {
   return (
     <div className="circles-share">
       <a
-        href="/"
+        href=""
         // "shareFB('https://www.facebook.com/sharer/sharer.php?u=')"
         onClick={shareFB}
         id="share-FB-url"

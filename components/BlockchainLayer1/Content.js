@@ -116,7 +116,7 @@ const Content = () => {
                             và thân thiện với người dùng, cung cấp quyền kiểm
                             soát tài chính trở lại cho người dùng là một trong
                             những phần quan trọng nhất của cơ sở hạ tầng của
-                            "Internet of Value". Nó sẽ thu hẹp khoảng cách giữa
+                            Internet of Value. Nó sẽ thu hẹp khoảng cách giữa
                             người đam mê tiền điện tử và người dùng phổ thông -
                             và có thể tăng tỷ lệ chấp nhận tiền điện tử lên gấp
                             10 lần nếu làm đúng. OpenChain chia sẻ cùng một cơ

@@ -65,7 +65,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/openchain/logo-blockchain.png"}
                   alt=""
@@ -74,7 +74,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Openchain Network (Layer 1)
@@ -86,7 +86,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/openchain/logo-openchain.png"}
                   alt=""
@@ -95,7 +95,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Openchain Explorer Scan
@@ -107,7 +107,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/openchain/logo-opc-wallet.png"}
                   alt=""
@@ -116,7 +116,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Openchain Wallet
@@ -128,7 +128,7 @@ const Content = () => {
           <div className="cd-timeline-block">
             <div className="cd-timeline-img"></div>
             <div className="cd-timeline-content">
-              <a href="/">
+              <a href="">
                 <img
                   src={"/images/openchain/cex-dex.png"}
                   alt=""
@@ -137,7 +137,7 @@ const Content = () => {
               </a>
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
-                  href="/"
+                  href=""
                   className="fables-second-text-color text-decoration-none"
                 >
                   Openchain DEX & CEX

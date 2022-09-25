@@ -2,6 +2,7 @@ import React, { Fragment } from "react";
 import { Container, Row, Col } from "reactstrap";
 import bg from "../../public/images/footer-back.jpg";
 import { motion } from "framer-motion";
+import Link from "next/link";
 const Footer = () => {
   const animateImgeTop = {
     off: { scale: 0.6, opacity: 0.6 },
@@ -28,15 +29,14 @@ const Footer = () => {
           <Container>
             <Row>
               <Col className="col-12 col-lg-4 mb-4 mb-lg-0">
-                <a
-                  href="/"
-                  className="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-18"
-                >
-                  <img
-                    className="img-footer"
-                    src={"/images/logo/logo-genexwifi-flatform-footer.png"}
-                  />
-                </a>
+                <Link href="/">
+                  <a className="fables-second-border-color border-bottom pb-3 d-block mb-3 mt-18">
+                    <img
+                      className="img-footer"
+                      src={"/images/logo/logo-genexwifi-flatform-footer.png"}
+                    />
+                  </a>
+                </Link>
                 <p className="font-15 fables-third-text-color text-justify">
                   Tất cả các thông tin trên website này là bản quyền của GENEX.
                   Mọi sự sao chép vui lòng ghi rõ nguồn.
@@ -88,24 +88,24 @@ const Footer = () => {
                 </h2>
                 <ul className="nav fables-footer-links">
                   <li>
-                    <a href="/product">Sản phẩm</a>
+                    <Link href="/product">Sản phẩm</Link>
                   </li>
                   <li>
-                    <a href="/wifiMarketing">Giải pháp Wifi Marketing</a>
+                    <Link href="/wifiMarketing">Giải pháp Wifi Marketing</Link>
                   </li>
                   <li>
-                    <a href="/hospitality">
+                    <Link href="/hospitality">
                       Giải pháp Hospitality Internet Billing
-                    </a>
+                    </Link>
                   </li>
                   <li>
-                    <a href="/wifiDspplaform">Wifi DSP Platform</a>
+                    <Link href="/wifiPlaform">Wifi DSP Platform</Link>
                   </li>
                   <li>
-                    <a href="/partner">Khách hàng - Đối tác</a>
+                    <Link href="/partner">Khách hàng - Đối tác</Link>
                   </li>
                   <li>
-                    <a href="/about">Về GENEX</a>
+                    <Link href="/about">Về GENEX</Link>
                   </li>
                 </ul>
               </Col>

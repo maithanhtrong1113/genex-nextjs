@@ -133,7 +133,7 @@ const Content = () => {
         <Row className="col-12">
           <Col className="col-4 col-md-2 mb-4 mb-lg-5">
             <div className="image-container translate-effect-right1">
-              <a href="/">
+              <a href="">
                 <motion.img
                   initial={"off"}
                   whileInView={"on"}
@@ -150,7 +150,7 @@ const Content = () => {
           </Col>
           <Col className="col-4 col-md-2 mb-4 mb-lg-5">
             <div className="image-container translate-effect-right1">
-              <a href="/">
+              <a href="">
                 <motion.img
                   initial={"off"}
                   whileInView={"on"}
@@ -167,7 +167,7 @@ const Content = () => {
           </Col>
           <Col className="col-4 col-md-2 mb-4 mb-lg-5">
             <div className="image-container translate-effect-right1">
-              <a href="/">
+              <a href="">
                 <motion.img
                   initial={"off"}
                   whileInView={"on"}
@@ -184,7 +184,7 @@ const Content = () => {
           </Col>
           <Col className="col-4 col-md-2 mb-4 mb-lg-5">
             <div className="image-container translate-effect-right1">
-              <a href="/">
+              <a href="">
                 <motion.img
                   initial={"off"}
                   whileInView={"on"}
@@ -201,7 +201,7 @@ const Content = () => {
           </Col>
           <Col className="col-4 col-md-2 mb-4 mb-lg-5">
             <div className="image-container translate-effect-right1">
-              <a href="/">
+              <a href="">
                 <motion.img
                   initial={"off"}
                   whileInView={"on"}
@@ -219,7 +219,7 @@ const Content = () => {
           </Col>
           <Col className="col-4 col-md-2 mb-4 mb-lg-5">
             <div className="image-container translate-effect-right1">
-              <a href="/">
+              <a href="">
                 <motion.img
                   initial={"off"}
                   whileInView={"on"}
@@ -292,7 +292,7 @@ const Content = () => {
           </Col>
           <Col className="col-6 col-md-3 mb-lg-5">
             <div className="image-container translate-effect-right1 animation-circle1">
-              <a href="/">
+              <a href="">
                 <motion.img
                   initial={"off"}
                   whileInView={"on"}
@@ -309,7 +309,7 @@ const Content = () => {
           </Col>
           <Col className="col-6 col-md-3 mb-lg-5">
             <div className="image-container translate-effect-right1 animation-circle2">
-              <a href="/">
+              <a href="">
                 <motion.img
                   initial={"off"}
                   whileInView={"on"}
@@ -326,7 +326,7 @@ const Content = () => {
           </Col>
           <Col className="col-6 col-md-3 mb-lg-5">
             <div className="image-container translate-effect-right1 animation-circle3">
-              <a href="/">
+              <a href="">
                 <motion.img
                   initial={"off"}
                   whileInView={"on"}
@@ -343,7 +343,7 @@ const Content = () => {
           </Col>
           <Col className="col-6 col-md-3 mb-lg-5">
             <div className="image-container translate-effect-right1 animation-circle4">
-              <a href="/">
+              <a href="">
                 <motion.img
                   initial={"off"}
                   whileInView={"on"}

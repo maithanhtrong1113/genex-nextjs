@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 import { Container, Nav } from "reactstrap";
 
@@ -8,8 +9,8 @@ const Breadcrumbs = () => {
         <nav>
           <ol className="fables-breadcrumb breadcrumb px-0 py-3">
             <li className="breadcrumb-item">
-              <Link href="/" className="fables-breadcrumbs-text-color">
-                Trang chủ
+              <Link href="/">
+                <a className="fables-breadcrumbs-text-color">Trang chủ</a>
               </Link>
             </li>
             <li className="breadcrumb-item active">Case Study Blockchain</li>

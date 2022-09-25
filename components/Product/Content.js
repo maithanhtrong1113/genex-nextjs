@@ -521,12 +521,11 @@ const Content = () => {
                                     <AccordionBody accordionId="2">
                                       <code>
                                         1) Sau khi hiện ra giao diện, đặt tên
-                                        cho Splashpage và chọn "Past Code" để
-                                        nạp code HTML vào trường "Input your
-                                        HTML Code" và click Create để tạo.{" "}
-                                        <br />
+                                        cho Splashpage và chọn Past Code để nạp
+                                        code HTML vào trường Input your HTML
+                                        Code và click Create để tạo. <br />
                                         2) Sau khi hiện ra giao diện, đặt tên
-                                        cho Splashpage và chọn "Static Code", sẽ
+                                        cho Splashpage và chọn Static Code, sẽ
                                         xuất hiện giao diện có thể tùy chình
                                         trang splashpage theo ý muốn mà không
                                         cần nạp
@@ -543,7 +542,7 @@ const Content = () => {
                                     </AccordionHeader>
                                     <AccordionBody accordionId="3">
                                       <code>
-                                        Xuất hiện giao diện "Static Code"
+                                        Xuất hiện giao diện Static Code
                                       </code>
                                     </AccordionBody>
                                   </AccordionItem>
@@ -557,8 +556,8 @@ const Content = () => {
                                     </AccordionHeader>
                                     <AccordionBody accordionId="4">
                                       <code>
-                                        Chọn "Settings" để tùy chỉnh kích cỡ
-                                        hình ảnh, font chữ, vị trí button,...
+                                        Chọn Settings để tùy chỉnh kích cỡ hình
+                                        ảnh, font chữ, vị trí button,...
                                       </code>
                                     </AccordionBody>
                                   </AccordionItem>
@@ -572,7 +571,7 @@ const Content = () => {
                                     </AccordionHeader>
                                     <AccordionBody accordionId="5">
                                       <code>
-                                        Chọn "templates" để sử dụng những mẫu
+                                        Chọn templates để sử dụng những mẫu
                                         splashpage có sẵn
                                       </code>
                                     </AccordionBody>
@@ -587,8 +586,8 @@ const Content = () => {
                                     </AccordionHeader>
                                     <AccordionBody accordionId="6">
                                       <code>
-                                        Sau khi tạo xong, click vào icon "Save"
-                                        để lưu lại.
+                                        Sau khi tạo xong, click vào icon Save để
+                                        lưu lại.
                                       </code>
                                     </AccordionBody>
                                   </AccordionItem>
