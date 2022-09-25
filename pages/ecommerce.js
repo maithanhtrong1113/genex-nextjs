@@ -4,7 +4,7 @@ import Footer from "../components/Index/Footer";
 import Head from "next/head";
 import CarouselProduct from "../components/Product/CarouselProduct";
 import ScrollTopShare from "../components/Index/ScrollTopShare";
-import Breadcrumb from "../components/defiDapp/Breadcrumbs";
+import Breadcrumb from "../components/Ecommerce/Breadcrumbs";
 import Content from "../components/Ecommerce/Content";
 const ecommerce = () => {
   return (

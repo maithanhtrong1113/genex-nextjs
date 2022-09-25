@@ -4,7 +4,7 @@ import Footer from "../components/Index/Footer";
 import Head from "next/head";
 import CarouselProduct from "../components/Product/CarouselProduct";
 import ScrollTopShare from "../components/Index/ScrollTopShare";
-import Breadcrumb from "../components/decentralizedExchange/Breadcrumbs";
+import Breadcrumb from "../components/DecentralizedExchange/Breadcrumbs";
 import Content from "../components/DecentralizedExchange/Content";
 const decentralizedExchange = () => {
   return (
