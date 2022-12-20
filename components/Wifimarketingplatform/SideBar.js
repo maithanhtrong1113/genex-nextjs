@@ -175,15 +175,15 @@ const SideBar = () => {
               </a>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="aruba.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/aruba">
                 <img
                   width="60"
                   height="60"
                   alt="exchange.svg"
                   src="/images/logo/aruba.svg"
                 />
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link scrollto" href="#item-3-1">
