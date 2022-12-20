@@ -201,15 +201,15 @@ const SideBar = () => {
               </a>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="zyxel.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/zyxel">
                 <img
                   width="55"
                   height="35"
                   alt="exchange.svg"
                   src="/images/logo/zyxel.png"
                 />
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link scrollto" href="#item-4-1">
@@ -217,15 +217,15 @@ const SideBar = () => {
               </a>
             </li>
 
-            <li className="nav-item section-title mt-3 ">
-              <a href="engenius.html">
+            <li className="nav-item section-title mt-3 pointer ">
+              <Link href="/wifimarketingplatform/engenius">
                 <img
                   width="60"
                   height="30"
                   alt="exchange.svg"
                   src="/images/logo/engenius.png"
                 />
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link scrollto" href="#item-5-1">
@@ -238,26 +238,26 @@ const SideBar = () => {
               </a>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="mikrotik.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/mikrotik">
                 <img
                   width="65"
                   height="50"
                   alt="exchange.svg"
                   src={"/images/logo/mikrotik.jpeg"}
                 />
-              </a>
+              </Link>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="cisco.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/cisco">
                 <img
                   width="60"
                   height="50"
                   alt="exchange.svg"
                   src={"/images/logo/cisco.jpeg"}
                 />
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link scrollto" href="#item-6-1">
@@ -265,26 +265,26 @@ const SideBar = () => {
               </a>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="meraki.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/meraki">
                 <img
                   width="60"
                   height="50"
                   alt="exchange.svg"
                   src={"/images/logo/meraki.png"}
                 />
-              </a>
+              </Link>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="unifi.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/unifi">
                 <img
                   width="60"
                   height="30"
                   alt="exchange.svg"
                   src={"/images/logo/unifi.png"}
                 />
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link scrollto" href="#item-7-1">
@@ -297,15 +297,15 @@ const SideBar = () => {
               </a>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="ruijie.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/ruijie">
                 <img
                   width="50"
                   height="27"
                   alt="exchange.svg"
                   src={"/images/logo/ruijie.png"}
                 />
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link scrollto" href="ruijie.html#item-8-1">
@@ -318,15 +318,15 @@ const SideBar = () => {
               </a>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="tplink.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/tplink">
                 <img
                   width="70"
                   height="40"
                   alt="exchange.svg"
                   src={"/images/logo/tplink.svg"}
                 />
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link scrollto" href="tplink.html#item-9-1">
@@ -334,15 +334,15 @@ const SideBar = () => {
               </a>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="aerohive.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/aerohive">
                 <img
                   width="95"
                   height="30"
                   alt="exchange.svg"
                   src={"/images/logo/aerohive.png"}
                 />
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
               <a className="nav-link scrollto" href="aerohive.html#item-10-1">
@@ -350,70 +350,70 @@ const SideBar = () => {
               </a>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="extreme.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/extreme">
                 <img
                   width="80"
                   height="38"
                   alt="exchange.svg"
                   src={"/images/logo/extreme.jpeg"}
                 />
-              </a>
+              </Link>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="draytek.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/draytek">
                 <img
                   width="65"
                   height="45"
                   alt="exchange.svg"
                   src={"/images/logo/draytek.png"}
                 />
-              </a>
+              </Link>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="teltonika.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/teltonika">
                 <img
                   width="85"
                   height="30"
                   alt="exchange.svg"
                   src={"/images/logo/teltonika.png"}
                 />
-              </a>
+              </Link>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="peplink.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/peplink">
                 <img
                   width="65"
                   height="60"
                   alt="exchange.svg"
                   src={"/images/logo/peplink.png"}
                 />
-              </a>
+              </Link>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="pepwave.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/pepwave">
                 <img
                   width="65"
                   height="60"
                   alt="exchange.svg"
                   src={"/images/logo/pepwave.jpeg"}
                 />
-              </a>
+              </Link>
             </li>
 
-            <li className="nav-item section-title mt-3">
-              <a href="openwrt.html">
+            <li className="nav-item section-title mt-3 pointer">
+              <Link href="/wifimarketingplatform/openwrt">
                 <img
                   width="60"
                   height="60"
                   alt="exchange.svg"
                   src={"/images/logo/openwrt.png"}
                 />
-              </a>
+              </Link>
             </li>
 
             <li className="nav-item section-title mt-3">
