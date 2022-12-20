@@ -112,11 +112,18 @@ function Navigation() {
               </DropdownItem>
             </DropdownMenu>
           </UncontrolledDropdown>
-          <NavItem>
-            <NavLink href="https://genexwifi.com/wifimarketingplatform/index.html">
+          <UncontrolledDropdown inNavbar nav>
+            <DropdownToggle caret nav>
               Documentation
-            </NavLink>
-          </NavItem>
+            </DropdownToggle>
+            <DropdownMenu>
+              <DropdownItem>
+                <Link href="/wifimarketingplatform">
+                  Tài liệu Wifi Marketing Tích Hợp Các Hãng
+                </Link>
+              </DropdownItem>
+            </DropdownMenu>
+          </UncontrolledDropdown>
           <NavItem>
             <NavLink href="/about">Về GENEX</NavLink>
           </NavItem>

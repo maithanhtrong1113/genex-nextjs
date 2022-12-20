@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps, router }) {
           on: {
             opacity: 1,
             transition: {
-              duration: 0.5,
+              duration: 0,
             },
           },
         }}

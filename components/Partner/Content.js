@@ -75,7 +75,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Hãng Aruba.
                 </a>
@@ -96,7 +96,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Hãng Ruckus.
                 </a>
@@ -117,7 +117,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Hãng Zyxel.
                 </a>
@@ -138,7 +138,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Hãng Engenius.
                 </a>
@@ -159,7 +159,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Hãng TP-Link.
                 </a>
@@ -180,7 +180,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Hãng Ruijie.
                 </a>
@@ -201,7 +201,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Ngân hàng Nam Á.
                 </a>
@@ -222,7 +222,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Ngân hàng An Bình.
                 </a>
@@ -243,7 +243,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Chuỗi phòng giao dịch khách hàng của Cty Shinhan Finance.
                 </a>
@@ -264,7 +264,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   AEON Mall.
                 </a>
@@ -285,7 +285,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Conasi (Mall, Hotel, Resort).
                 </a>
@@ -306,7 +306,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Công ty cổ phần Viễn thông Tin học Bưu điện (CTIN).
                 </a>
@@ -327,7 +327,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Công ty Cổ phần Phát triển Công nghệ Viễn thông Tin học Sun
                   Việt.
@@ -349,7 +349,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Công ty Cổ phần Truyền thông Số 1.
                 </a>
@@ -370,7 +370,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Công Ty TNHH Công Nghệ Tư Vấn Thương Mại Đông Quân.
                 </a>
@@ -391,7 +391,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Công Ty TNHH Teknik
                 </a>
@@ -412,7 +412,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Công ty Công nghệ Quang Dũng.
                 </a>
@@ -433,7 +433,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Lê Hoàng.
                 </a>
@@ -454,7 +454,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Thành phố Dĩ An Bình Dương.
                 </a>
@@ -475,7 +475,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Huyện Tân Uyên Bình Dương.
                 </a>
@@ -496,7 +496,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Des Arts Hotel.
                 </a>
@@ -517,7 +517,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Công ty phân phối Phương Việt – Nhà phân phối thiết bị
                   Engenius.
@@ -539,7 +539,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Đối tác về đường truyền Internet: Viettel, FPT, VNPT, CMC,
                   Tpcoms, Minh Tú, ….
@@ -561,7 +561,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Công ty phần mềm Bản Viên.
                 </a>
@@ -578,7 +578,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Hệ thống 250 điểm Free Wifi cho Công nhân lắp đặt tại tỉnh
                   Quảng Nam của Công ty NGM.
@@ -600,7 +600,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Ngoài ra còn có một số điểm nhỏ lẻ khác.
                 </a>
@@ -621,7 +621,7 @@ const Content = () => {
               <h2 className="font-15 semi-font px-3 mt-2">
                 <a
                   href=""
-                  className="fables-second-text-color text-decoration-none"
+                  className="fables-second-text-color text-decoration-none text-justify"
                 >
                   Khu dân cư Himlam của Cty Phú Đông Group.
                 </a>
