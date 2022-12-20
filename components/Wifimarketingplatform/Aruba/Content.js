@@ -10,13 +10,15 @@ const Content = () => {
           <div className="container">
             <article className="docs-article" id="section-1">
               <header className="docs-header">
-                <h1 className="docs-heading">
+                <h1 className="docs-heading fw-bold text-dark">
                   Aruba{" "}
-                  <span className="docs-time">Last updated: 2022-09-26</span>
+                  <span className="docs-time text-dark fw-bold">
+                    Last updated: 2022-09-26
+                  </span>
                 </h1>
               </header>
               <section className="docs-section" id="item-3-1">
-                <h2 className="section-heading">
+                <h2 className="section-heading fw-bold text-dark mt-2">
                   1. Aruba IAP Virtual Controller
                 </h2>
                 <ul>
@@ -35,7 +37,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -53,7 +55,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -68,7 +70,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -86,7 +88,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -104,7 +106,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -119,7 +121,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -134,7 +136,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -150,7 +152,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -185,7 +187,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -200,7 +202,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -215,7 +217,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -230,7 +232,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -245,7 +247,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -263,7 +265,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -278,7 +280,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -296,7 +298,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -310,7 +312,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -325,7 +327,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -340,7 +342,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -362,7 +364,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -379,7 +381,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -396,19 +398,21 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
                 </ul>
               </section>
               <section className="docs-section" id="item-3-2">
-                <h2 className="section-heading">
-                  2. Mobility Controller version củ
+                <h2 className="section-heading fw-bold text-dark mt-3">
+                  2. Mobility Controller version cũ
                 </h2>
                 <ul>
-                  <p>
-                    <strong>Bước 1: Tạo sóng WLAN chạy MKT</strong>
+                  <p className="my-2">
+                    <strong className="text-dark">
+                      Bước 1: Tạo sóng WLAN chạy MKT
+                    </strong>
                   </p>
                   <li>
                     Sau khi Login thành công - chọn Configuration - Campus LAN
@@ -423,7 +427,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -441,7 +445,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -457,7 +461,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -472,7 +476,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -487,7 +491,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -502,7 +506,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -517,7 +521,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -532,7 +536,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -552,7 +556,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -567,7 +571,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -582,13 +586,15 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
                   <li>Click nút “Close”</li>
                   <p>
-                    <strong>Bước 2: Cấu hình Captive Portal</strong>
+                    <strong className="text-dark">
+                      Bước 2: Cấu hình Captive Portal
+                    </strong>
                   </p>
                   <li>
                     Vào Configuration - Security - Authentication - L3
@@ -606,7 +612,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -620,7 +626,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -640,7 +646,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -657,7 +663,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -679,7 +685,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -693,7 +699,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -708,7 +714,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -721,7 +727,7 @@ const Content = () => {
               </section>
 
               <section className="docs-section" id="item-3-3">
-                <h2 className="section-heading">
+                <h2 className="section-heading fw-bold text-dark mt-2">
                   3. Mobility Controller version mới
                 </h2>
                 <p>
@@ -729,7 +735,7 @@ const Content = () => {
                 </p>
                 <ul>
                   <p>
-                    <strong>Bước 1. Tạo WLAN mới</strong>
+                    <strong className="text-dark">Bước 1. Tạo WLAN mới</strong>
                   </p>
                   <li>
                     Sau khi login thành công - click Configuration - chọn
@@ -749,7 +755,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -772,7 +778,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -796,7 +802,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -820,7 +826,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -838,7 +844,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -867,7 +873,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -887,7 +893,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -911,7 +917,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -940,7 +946,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -961,7 +967,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -980,7 +986,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -998,7 +1004,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -1013,7 +1019,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -1031,7 +1037,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -1056,7 +1062,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -1077,7 +1083,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -1097,7 +1103,7 @@ const Content = () => {
                         />
                       </a>
                       <figcaption className="figure-caption mt-3">
-                        <i className="fas fa-info-circle mr-2"></i>
+                        <i className="fas fa-info-circle mx-2 "></i>
                         Click vào hình để phóng to
                       </figcaption>
                     </figure>
@@ -1115,7 +1121,7 @@ const Content = () => {
                         />
                       </a>
                       <figcaption className="figure-caption mt-3">
-                        <i className="fas fa-info-circle mr-2"></i>
+                        <i className="fas fa-info-circle mx-2 "></i>
                         Click vào hình để phóng to
                       </figcaption>
                     </figure>
@@ -1141,13 +1147,15 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
 
                   <p>
-                    <strong>Bước 3: Cấu hình captive portal</strong>
+                    <strong className="text-dark">
+                      Bước 3: Cấu hình captive portal
+                    </strong>
                   </p>
                   <li>
                     Vào mục Configuration - Authentication - L3 Authentication
@@ -1162,7 +1170,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -1180,7 +1188,7 @@ const Content = () => {
                       />
                     </a>
                     <figcaption className="figure-caption mt-3">
-                      <i className="fas fa-info-circle mr-2"></i>
+                      <i className="fas fa-info-circle mx-2 "></i>
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
@@ -1202,7 +1210,7 @@ const Content = () => {
                         />
                       </a>
                       <figcaption className="figure-caption mt-3">
-                        <i className="fas fa-info-circle mr-2"></i>
+                        <i className="fas fa-info-circle mx-2 "></i>
                         Click vào hình để phóng to
                       </figcaption>
                     </figure>
@@ -1223,7 +1231,7 @@ const Content = () => {
                         />
                       </a>
                       <figcaption className="figure-caption mt-3">
-                        <i className="fas fa-info-circle mr-2"></i>
+                        <i className="fas fa-info-circle mx-2 "></i>
                         Click vào hình để phóng to
                       </figcaption>
                     </figure>
@@ -1244,7 +1252,7 @@ const Content = () => {
                         />
                       </a>
                       <figcaption className="figure-caption mt-3">
-                        <i className="fas fa-info-circle mr-2"></i>
+                        <i className="fas fa-info-circle mx-2 "></i>
                         Click vào hình để phóng to
                       </figcaption>
                     </figure>
@@ -1262,7 +1270,7 @@ const Content = () => {
                         />
                       </a>
                       <figcaption className="figure-caption mt-3">
-                        <i className="fas fa-info-circle mr-2"></i>
+                        <i className="fas fa-info-circle mx-2 "></i>
                         Click vào hình để phóng to
                       </figcaption>
                     </figure>
@@ -1271,7 +1279,7 @@ const Content = () => {
               </section>
 
               <p>
-                <strong>
+                <strong className="text-dark">
                   Bước 4: Tạo DHCP Scope gán cho lớp mạng của sóng đã tạo
                 </strong>
               </p>
@@ -1285,7 +1293,7 @@ const Content = () => {
                   />
                 </a>
                 <figcaption className="figure-caption mt-3">
-                  <i className="fas fa-info-circle mr-2"></i>
+                  <i className="fas fa-info-circle mx-2 "></i>
                   Click vào hình để phóng to
                 </figcaption>
               </figure>
@@ -1300,14 +1308,14 @@ const Content = () => {
                   />
                 </a>
                 <figcaption className="figure-caption mt-3">
-                  <i className="fas fa-info-circle mr-2"></i>
+                  <i className="fas fa-info-circle mx-2 "></i>
                   Click vào hình để phóng to
                 </figcaption>
               </figure>
             </article>
 
             <p>
-              <strong>Bước 5: Cấu hình firewall</strong>
+              <strong className="text-dark">Bước 5: Cấu hình firewall</strong>
             </p>
             <li>
               Cho phép thiết bị WCL truy cập đến Server thông tin cụ thể như

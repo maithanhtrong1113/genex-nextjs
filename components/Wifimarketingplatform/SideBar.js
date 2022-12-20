@@ -186,17 +186,26 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="#item-3-1">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/aruba#item-3-1"
+              >
                 Aruba IAP Virtual Controller
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="#item-3-2">
-                Mobility Controller version củ
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/aruba#item-3-2"
+              >
+                Mobility Controller version cũ
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="#item-3-3">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/aruba#item-3-3"
+              >
                 Mobility Controller version mới
               </a>
             </li>
@@ -212,7 +221,10 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="#item-4-1">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/zyxel#item-4-1"
+              >
                 Public Cloud
               </a>
             </li>
@@ -228,13 +240,11 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="#item-5-1">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/engenius#item-5-1"
+              >
                 Controller Appliance
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link scrollto" href="#item-5-1">
-                Public Cloud
               </a>
             </li>
 
