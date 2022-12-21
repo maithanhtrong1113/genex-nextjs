@@ -270,7 +270,10 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="#item-6-1">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/cisco#item-6-1"
+              >
                 Controller Appliance
               </a>
             </li>
@@ -297,12 +300,18 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="#item-7-1">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/unifi#item-7-1"
+              >
                 Software Controller
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="#item-7-1">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/unifi#item-7-2"
+              >
                 Controller Appliance
               </a>
             </li>
@@ -318,12 +327,18 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="ruijie.html#item-8-1">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/ruijie#item-8-1"
+              >
                 Public Cloud
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="#item-8-2">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/ruijie#item-8-2"
+              >
                 Gateway
               </a>
             </li>
@@ -339,7 +354,10 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="tplink.html#item-9-1">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/tplink#item-9-1"
+              >
                 Omada Controller
               </a>
             </li>
@@ -355,7 +373,10 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link scrollto" href="aerohive.html#item-10-1">
+              <a
+                className="nav-link scrollto"
+                href="/wifimarketingplatform/aerohive#item-10-1"
+              >
                 Public Cloud
               </a>
             </li>

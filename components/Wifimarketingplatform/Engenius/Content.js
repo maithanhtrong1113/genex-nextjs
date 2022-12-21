@@ -20,7 +20,7 @@ const Content = () => {
               </header>
 
               <section class="docs-section" id="item-5-1">
-                <h2 class="section-heading text-dark fw-bold">
+                <h2 class="section-heading text-dark fw-bold mt-3">
                   Cấu hình tích hợp WIFI MARKETING trên EnGenius ezMaster
                 </h2>
                 <ul>
