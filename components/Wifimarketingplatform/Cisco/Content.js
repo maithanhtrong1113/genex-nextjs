@@ -293,8 +293,8 @@ const Content = () => {
                     <li>Login Success Page Type: Default</li>
                     <li>
                       External Webauth URL: Login HT Cloud GENEX - vô menu Admin
-                      - WiFi Network - Click nút "Captive Portal" - click nút
-                      "Generate" sau đó click nút Copy để copy link
+                      - WiFi Network - Click nút Captive Portal - click nút
+                      Generate sau đó click nút Copy để copy link
                     </li>
                   </ul>
                 </ul>
@@ -374,10 +374,7 @@ const Content = () => {
             <footer class="footer">
               <div class="container text-center py-5">
                 <small class="copyright">
-                  Copyright &copy;{" "}
-                  <a href="https://genexwifi.com" target="_blank">
-                    GENEX
-                  </a>{" "}
+                  Copyright &copy; <a href="https://genexwifi.com">GENEX</a>{" "}
                   2019. All rights reserved.
                 </small>
               </div>

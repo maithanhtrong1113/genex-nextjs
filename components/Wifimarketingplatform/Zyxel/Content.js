@@ -56,7 +56,7 @@ const Content = () => {
                     <ul>
                       <li>
                         <p>
-                          Click vào "+ Add SSID Network", sau đó điền vào các
+                          Click vào + Add SSID Network, sau đó điền vào các
                           thông tin:
                         </p>
                         <ul>
@@ -112,9 +112,7 @@ const Content = () => {
                         </figure>
                       </li>
                       <li>
-                        <p>
-                          Kéo xuống đến mục "Captive portal advance setting"
-                        </p>
+                        <p>Kéo xuống đến mục Captive portal advance setting</p>
                         <ul>
                           <li>Walled garden (enable)</li>
                           <li>
@@ -195,7 +193,7 @@ const Content = () => {
                       </li>
 
                       <li>
-                        <p>Kéo xuống đến mục "External captive portal URL"</p>
+                        <p>Kéo xuống đến mục External captive portal URL</p>
                         <ul>
                           <li>
                             URL: enable và nhập đường dẫn External URL từ giao
@@ -227,7 +225,7 @@ const Content = () => {
                       </li>
 
                       <li>
-                        <p>Click "Save"</p>
+                        <p>Click Save</p>
                         <figure class="figure docs-figure py-3">
                           <a
                             href="/images/zyxel/save.png"
@@ -256,10 +254,7 @@ const Content = () => {
             <footer class="footer">
               <div class="container text-center py-5">
                 <small class="copyright">
-                  Copyright &copy;{" "}
-                  <a href="https://genexwifi.com" target="_blank">
-                    GENEX
-                  </a>{" "}
+                  Copyright &copy; <a href="https://genexwifi.com">GENEX</a>{" "}
                   2019. All rights reserved.
                 </small>
               </div>

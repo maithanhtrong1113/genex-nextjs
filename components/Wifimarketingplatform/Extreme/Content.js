@@ -25,8 +25,8 @@ const Content = () => {
                 <ul>
                   <li>
                     <p>
-                      Tạo "Captive Portals" chạy mode <i>"Internal"</i> (không
-                      chạy roaming)
+                      Tạo Captive Portals chạy mode <i>Internal</i> (không chạy
+                      roaming)
                     </p>
                     <code>
                       Vào <b>Configuration</b>{" "}
@@ -136,7 +136,7 @@ const Content = () => {
 
                   <li>
                     <p>
-                      Tạo "Captive Portals" chạy mode <i>"Centralized"</i> (chạy
+                      Tạo Captive Portals chạy mode <i>Centralized</i> (chạy
                       mode roaming)
                     </p>
 
@@ -223,8 +223,8 @@ const Content = () => {
                       <b>Add</b>
                     </code>
                     <ul>
-                      <li>Chọn "Time Zone"</li>
-                      <li>Chọn "Country"</li>
+                      <li>Chọn Time Zone</li>
+                      <li>Chọn Country</li>
                     </ul>
                     <figure class="figure docs-figure py-3">
                       <a
@@ -557,10 +557,7 @@ const Content = () => {
             <footer class="footer">
               <div class="container text-center py-5">
                 <small class="copyright">
-                  Copyright &copy;{" "}
-                  <a href="https://genexwifi.com" target="_blank">
-                    GENEX
-                  </a>{" "}
+                  Copyright &copy; <a href="https://genexwifi.com">GENEX</a>{" "}
                   2019. All rights reserved.
                 </small>
               </div>

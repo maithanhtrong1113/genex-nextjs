@@ -741,7 +741,7 @@ const Content = () => {
                     Sau khi login thành công - click Configuration - chọn
                     Controller
                   </li>
-                  <li>Vào WLANs - Click dấu "+" tạo WLAN mới</li>
+                  <li>Vào WLANs - Click dấu + tạo WLAN mới</li>
                   <figure className="figure docs-figure py-3">
                     <a
                       href="/images/aruba/new/tao_vlan.png"
@@ -810,9 +810,9 @@ const Content = () => {
                   <p>
                     <strong>B1.2 Cấu hình captive portal cho WLAN</strong>
                   </p>
-                  <li>Chọn mục "ClearPass or other external captive portal"</li>
+                  <li>Chọn mục ClearPass or other external captive portal</li>
                   <li>Auth servers</li>
-                  <p>Click dấu "+" để thêm RADIUS Server</p>
+                  <p>Click dấu + để thêm RADIUS Server</p>
                   <figure className="figure docs-figure py-3">
                     <a
                       href="/images/aruba/new/captive_wlan.png"
@@ -830,7 +830,7 @@ const Content = () => {
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
-                  <li>Tiếp tục click dấu "+" để thêm RADIUS Server</li>
+                  <li>Tiếp tục click dấu + để thêm RADIUS Server</li>
                   <figure className="figure docs-figure py-3">
                     <a
                       href="/images/aruba/new/add_radius.png"
@@ -901,7 +901,7 @@ const Content = () => {
                   <li>CPPM Host và CPPM Page</li>
                   <p>
                     Login HT Cloud GENEX - vô menu Admin - WiFi Network - Click
-                    nút "Captive Portal" - click nút "Generate" sau đó click nút
+                    nút Captive Portal - click nút Generate sau đó click nút
                     Copy để copy link
                   </p>
                   <figure className="figure docs-figure py-3">
@@ -992,7 +992,7 @@ const Content = () => {
                   </figure>
                   <li>
                     Tiếp tục chọn mục Role có tên sóng vừa chọn:
-                    "New_MKT-guest-logon"
+                    New_MKT-guest-logon
                   </li>
                   <figure className="figure docs-figure py-3">
                     <a href="/images/aruba/new/b2_2.png" data-toggle="lightbox">
@@ -1008,7 +1008,7 @@ const Content = () => {
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
-                  <li>Kéo xuống dưới cùng đến mục "Rules of this Role only"</li>
+                  <li>Kéo xuống dưới cùng đến mục Rules of this Role only</li>
                   <figure className="figure docs-figure py-3">
                     <a href="/images/aruba/new/b2_3.png" data-toggle="lightbox">
                       <img
@@ -1023,7 +1023,7 @@ const Content = () => {
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
-                  <li>Sau đó bấm vào dấu "+" để hiện popup New Rule</li>
+                  <li>Sau đó bấm vào dấu + để hiện popup New Rule</li>
                   <figure className="figure docs-figure py-3">
                     <a
                       href="/images/aruba/new/new_rule_1.png"
@@ -1067,8 +1067,8 @@ const Content = () => {
                     </figcaption>
                   </figure>
                   <li>
-                    Trong mục "Destination alias", bấm dấu mũi tên xuống để mở
-                    rộng, sau đó bấm dấu "+" để thêm mới
+                    Trong mục Destination alias, bấm dấu mũi tên xuống để mở
+                    rộng, sau đó bấm dấu + để thêm mới
                   </li>
                   <figure className="figure docs-figure py-3">
                     <a
@@ -1087,9 +1087,9 @@ const Content = () => {
                       Click vào hình để phóng to
                     </figcaption>
                   </figure>
-                  <li>Trong popup "Add New Destination"</li>
+                  <li>Trong popup Add New Destination</li>
                   <ul>
-                    <li>Destination name: nhập "aeon_src"</li>
+                    <li>Destination name: nhập aeon_src</li>
                     <figure className="figure docs-figure py-3">
                       <a
                         href="/images/aruba/new/new_rule_4.png"
@@ -1107,7 +1107,7 @@ const Content = () => {
                         Click vào hình để phóng to
                       </figcaption>
                     </figure>
-                    <li>Click dấu "+" để thêm mới Rule</li>
+                    <li>Click dấu + để thêm mới Rule</li>
                     <figure className="figure docs-figure py-3">
                       <a
                         href="/images/aruba/new/new_rule_5.png"
@@ -1125,8 +1125,8 @@ const Content = () => {
                         Click vào hình để phóng to
                       </figcaption>
                     </figure>
-                    <li>Rule type: Chọn "Name"</li>
-                    <li>Domain name: nhập "*.genexwifi.com"</li>
+                    <li>Rule type: Chọn Name</li>
+                    <li>Domain name: nhập: *.genexwifi.com</li>
                     <li>
                       Bấm <b>OK</b>
                     </li>
@@ -1176,7 +1176,7 @@ const Content = () => {
                   </figure>
                   <li>
                     Tiếp tục mở rộng mục Captive Portal Authentication, chọn
-                    sóng WLAN vừa tạo: ví dụ ở đây là "New_MKT"
+                    sóng WLAN vừa tạo: ví dụ ở đây là New_MKT
                   </li>
                   <figure className="figure docs-figure py-3">
                     <a href="/images/aruba/new/b3_2.png" data-toggle="lightbox">
@@ -1236,8 +1236,8 @@ const Content = () => {
                       </figcaption>
                     </figure>
                     <li>
-                      Mục whitelist: Bấm dấu "+" sau đó chọn "aeon_src" như đã
-                      tạo ở bước 2
+                      Mục whitelist: Bấm dấu + sau đó chọn aeon_src như đã tạo ở
+                      bước 2
                     </li>
                     <figure className="figure docs-figure py-3">
                       <a

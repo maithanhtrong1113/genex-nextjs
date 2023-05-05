@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { motion, useScroll, useSpring } from "framer-motion";
 import "bootstrap/dist/css/bootstrap.css";
 import {
@@ -25,8 +25,22 @@ function Navigation() {
     damping: 30,
     restDelta: 0.001,
   });
+  const [bg, setbg] = useState("navbarHome");
+  useEffect(() => {
+    const listenToScroll = () => {
+      const winScroll =
+        document.body.scrollTop || document.documentElement.scrollTop;
+      if (winScroll < 250) {
+        setbg("navbarHome");
+      } else {
+        setbg("navbarHome1");
+      }
+    };
+    window.addEventListener("scroll", listenToScroll);
+    return () => window.removeEventListener("scroll", listenToScroll);
+  }, []);
   return (
-    <Navbar expand={"lg"} container={true} fixed="top" className="navbarHome">
+    <Navbar expand={"lg"} container={true} fixed="top" className={bg}>
       <motion.div className="progress-barr" style={{ scaleX }} />
       <NavbarBrand href="/">
         <img alt="logo" src="/images/logo/logo-genexwifi-flatform.png" />

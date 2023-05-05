@@ -38,7 +38,7 @@ const Content = () => {
                     </p>
                     <ul>
                       <li>
-                        <p>Click vào "Add", sau đó điền vào các thông tin:</p>
+                        <p>Click vào Add, sau đó điền vào các thông tin:</p>
                         <ul>
                           <li>SSID Name (tên của SSID đang chạy Portal)</li>
                           <li>Band</li>
@@ -228,7 +228,7 @@ const Content = () => {
                       </li>
 
                       <li>
-                        <p>Click "Apply"</p>
+                        <p>Click Apply</p>
                         <figure class="figure docs-figure py-3">
                           <a
                             href="/images/features/tplink_7.png"
@@ -257,10 +257,7 @@ const Content = () => {
             <footer class="footer">
               <div class="container text-center py-5">
                 <small class="copyright">
-                  Copyright &copy;{" "}
-                  <a href="https://genexwifi.com" target="_blank">
-                    GENEX
-                  </a>{" "}
+                  Copyright &copy; <a href="https://genexwifi.com">GENEX</a>{" "}
                   2019. All rights reserved.
                 </small>
               </div>

@@ -43,7 +43,6 @@ const Content = () => {
                   <a
                     className="fw-bold"
                     style={{ color: "#1c6fdc" }}
-                    target="_blank"
                     href="http://cloud.genexwifi.com"
                   >
                     http://cloud.genexwifi.com
@@ -828,10 +827,7 @@ const Content = () => {
                     <li>
                       Tham khảo hướng dẫn bên dưới và thực hiện đăng ký một
                       Facebook App
-                      <a
-                        href="https://developers.facebook.com/docs/apps/register"
-                        target="_blank"
-                      >
+                      <a href="https://developers.facebook.com/docs/apps/register">
                         Truy cập tại đây
                       </a>
                     </li>
@@ -1018,7 +1014,6 @@ const Content = () => {
                   Copyright &copy;
                   <a
                     href="https://genexwifi.com"
-                    target="_blank"
                     className="text-decoration-none "
                   >
                     &nbsp;GENEX WiFi&nbsp;

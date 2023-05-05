@@ -80,7 +80,7 @@ const Content = () => {
                   <li>Check “User Auth on Captive Web Portal”</li>
                   <li>Uncheck “Enable UPA”</li>
                   <li>Chọn “Redirect to External URL for”</li>
-                  <li>Check “Send Client's Requested URL in Clear Text”</li>
+                  <li>Check “Send Clients Requested URL in Clear Text”</li>
                   <li>
                     Phần “Default Captive Web Portal” có thể chọn “Select” từ
                     danh sách cấu hình có sẵn, hoặc “Add” mới
@@ -365,10 +365,7 @@ const Content = () => {
             <footer class="footer">
               <div class="container text-center py-5">
                 <small class="copyright">
-                  Copyright &copy;{" "}
-                  <a href="https://genexwifi.com" target="_blank">
-                    GENEX
-                  </a>{" "}
+                  Copyright &copy; <a href="https://genexwifi.com">GENEX</a>{" "}
                   2019. All rights reserved.
                 </small>
               </div>

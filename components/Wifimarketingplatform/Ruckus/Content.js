@@ -201,9 +201,7 @@ const Content = () => {
                           tab <b>Walled Garden</b>
                         </code>
                         <ul>
-                          <li>
-                            Chọn "Create New" để thêm các ip cho phép pass
-                          </li>
+                          <li>Chọn Create New để thêm các ip cho phép pass</li>
                         </ul>
                         <figure className="figure docs-figure py-3">
                           <a
@@ -593,10 +591,7 @@ const Content = () => {
             <footer className="footer">
               <div className="container text-center py-5">
                 <small className="copyright">
-                  Copyright &copy;{" "}
-                  <a href="https://genexwifi.com" target="_blank">
-                    GENEX
-                  </a>{" "}
+                  Copyright &copy; <a href="https://genexwifi.com">GENEX</a>{" "}
                   2019. All rights reserved.
                 </small>
               </div>

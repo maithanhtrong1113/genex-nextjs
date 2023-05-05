@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 import { Fragment } from "react";
 import { Container } from "reactstrap";
@@ -19,13 +20,13 @@ const Header = () => {
                 <span></span>
               </button>
               <div className="site-logo">
-                <a className="navbar-brand" href="/">
+                <Link className="navbar-brand" href="/">
                   <img
                     className="logo-icon me-2"
                     src="https://genexwifi.com/assets/images/logo/logo-genexwifi-flatform.png"
                     alt="logo"
                   />
-                </a>
+                </Link>
               </div>
             </div>
           </Container>

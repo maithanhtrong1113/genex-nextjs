@@ -16,7 +16,9 @@ html {
 .navbarHome {
   background-color: #e8eaec !important;
 }
-
+.navbarHome1 {
+  background: linear-gradient(to right, rgb(175, 229, 229), rgb(106, 214, 214));
+}
 .progress-barr {
   position: fixed;
   top: 0;

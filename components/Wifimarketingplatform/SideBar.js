@@ -60,84 +60,84 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform#item-1-1"
               >
                 1. Truy cập portal
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform#item-1-2"
               >
                 2. Dashboard
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform#item-1-3"
               >
                 3. CRM
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform#item-1-4"
               >
                 4. Tạo Wifi Network
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform#item-1-5"
               >
                 5. Tạo Location
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform#item-1-6"
               >
                 6. Thêm AP vào location
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform#item-1-7"
               >
                 7. Tạo Brand
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform#item-1-8"
               >
                 8. Tạo Creative Ads
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform#item-1-9"
               >
                 9. Quản lý Campaign
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform#item-1-10"
               >
                 10. Campaign chạy Facebook Login/Share
-              </a>
+              </Link>
             </li>
             <li className="nav-item section-title mt-3">
               <Link href="/wifimarketingplatform/ruckus">
@@ -151,28 +151,28 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/ruckus#item-2-1"
               >
                 Unleashed AP
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/ruckus#item-2-2"
               >
                 Zone Director & Virtual Smart Zone
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/ruckus#item-2-3"
               >
                 Public Cloud
-              </a>
+              </Link>
             </li>
 
             <li className="nav-item section-title mt-3 pointer">
@@ -186,28 +186,28 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/aruba#item-3-1"
               >
                 Aruba IAP Virtual Controller
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/aruba#item-3-2"
               >
                 Mobility Controller version cũ
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/aruba#item-3-3"
               >
                 Mobility Controller version mới
-              </a>
+              </Link>
             </li>
 
             <li className="nav-item section-title mt-3 pointer">
@@ -221,12 +221,12 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/zyxel#item-4-1"
               >
                 Public Cloud
-              </a>
+              </Link>
             </li>
 
             <li className="nav-item section-title mt-3 pointer ">
@@ -240,12 +240,12 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/engenius#item-5-1"
               >
                 Controller Appliance
-              </a>
+              </Link>
             </li>
 
             <li className="nav-item section-title mt-3 pointer">
@@ -270,12 +270,12 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/cisco#item-6-1"
               >
                 Controller Appliance
-              </a>
+              </Link>
             </li>
 
             <li className="nav-item section-title mt-3 pointer">
@@ -300,20 +300,20 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/unifi#item-7-1"
               >
                 Software Controller
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/unifi#item-7-2"
               >
                 Controller Appliance
-              </a>
+              </Link>
             </li>
 
             <li className="nav-item section-title mt-3 pointer">
@@ -327,20 +327,20 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/ruijie#item-8-1"
               >
                 Public Cloud
-              </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/ruijie#item-8-2"
               >
                 Gateway
-              </a>
+              </Link>
             </li>
 
             <li className="nav-item section-title mt-3 pointer">
@@ -354,12 +354,12 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/tplink#item-9-1"
               >
                 Omada Controller
-              </a>
+              </Link>
             </li>
 
             <li className="nav-item section-title mt-3 pointer">
@@ -373,12 +373,12 @@ const SideBar = () => {
               </Link>
             </li>
             <li className="nav-item">
-              <a
+              <Link
                 className="nav-link scrollto"
                 href="/wifimarketingplatform/aerohive#item-10-1"
               >
                 Public Cloud
-              </a>
+              </Link>
             </li>
 
             <li className="nav-item section-title mt-3 pointer">
@@ -448,12 +448,12 @@ const SideBar = () => {
             </li>
 
             <li className="nav-item section-title mt-3">
-              <a className="nav-link scrollto" href="#section-10">
+              <Link className="nav-link scrollto" href="#section-10">
                 <span className="theme-icon-holder mr-2">
                   <i className="fas fa-cogs"></i>
                 </span>
                 Others
-              </a>
+              </Link>
             </li>
           </ul>
         </nav>

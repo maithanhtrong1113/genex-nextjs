@@ -133,7 +133,7 @@ const Content = () => {
                       <li>
                         <p>
                           Tab <b>General Settings</b>: Điền vào{" "}
-                          <i>"Group Name"</i>
+                          <i>Group Name</i>
                         </p>
                         <figure class="figure docs-figure py-3">
                           <a
@@ -157,9 +157,9 @@ const Content = () => {
 
                       <li>
                         <p>
-                          Tab <b>Member Setting</b>: click <i>"Add"</i> xuất
-                          hiện modal, chọn những AP nào cần add vào group hiện
-                          tại, sau đó click <i>"Confirm"</i>
+                          Tab <b>Member Setting</b>: click <i>Add</i> xuất hiện
+                          modal, chọn những AP nào cần add vào group hiện tại,
+                          sau đó click <i>Confirm</i>
                         </p>
                         <figure class="figure docs-figure py-3">
                           <a
@@ -235,7 +235,7 @@ const Content = () => {
                         </p>
                         <ul>
                           <li>
-                            <p>Chọn một SSID, ví dụ "SSID_1"</p>
+                            <p>Chọn một SSID, ví dụ SSID_1</p>
                             <figure class="figure docs-figure py-3">
                               <a
                                 href="/images/features/en_ez_9.png"
@@ -383,13 +383,13 @@ const Content = () => {
 
                         <tr>
                           <th class="theme-bg-light">Authentication Type</th>
-                          <td>Chọn "Splash & go"</td>
+                          <td>Chọn Splash & go</td>
                         </tr>
 
                         <tr>
                           <th class="theme-bg-light">Splash Page</th>
                           <td>
-                            Chọn "External Splash Page URL", nhập vào link từ
+                            Chọn External Splash Page URL, nhập vào link từ
                             cloud WIFI MARKETING
                           </td>
                         </tr>
@@ -409,7 +409,7 @@ const Content = () => {
                         <tr>
                           <th class="theme-bg-light">Walled Garden</th>
                           <td>
-                            Chọn "Enable", nhập vào các domain/ip cho phép pass.
+                            Chọn Enable, nhập vào các domain/ip cho phép pass.
                             Có các domain/ip sau bắt buộc phải nhập:
                             <ul>
                               <li>
@@ -472,10 +472,7 @@ const Content = () => {
             <footer class="footer">
               <div class="container text-center py-5">
                 <small class="copyright">
-                  Copyright &copy;{" "}
-                  <a href="https://genexwifi.com" target="_blank">
-                    GENEX
-                  </a>{" "}
+                  Copyright &copy; <a href="https://genexwifi.com">GENEX</a>{" "}
                   2019. All rights reserved.
                 </small>
               </div>
