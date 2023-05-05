@@ -25,15 +25,21 @@ function Navigation() {
     damping: 30,
     restDelta: 0.001,
   });
-  const [bg, setbg] = useState("navbarHome");
+  const [bg, setbg] = useState("navbarHome ");
+  const [text, setText] = useState("fw-bold");
+  const [url, setUrl] = useState("/images/logo/logo-genexwifi-flatform.png");
   useEffect(() => {
     const listenToScroll = () => {
       const winScroll =
         document.body.scrollTop || document.documentElement.scrollTop;
       if (winScroll < 250) {
-        setbg("navbarHome");
+        setbg("navbarHome ");
+        setText("fw-bold ");
+        setUrl("/images/logo/logo-genexwifi-flatform.png");
       } else {
-        setbg("navbarHome1");
+        setbg("navbarHome1 shadow ");
+        // setText("text-white fw-bold");
+        // setUrl("/images/logo/logo-genexwifi-flatform-footer.png");
       }
     };
     window.addEventListener("scroll", listenToScroll);
@@ -42,17 +48,24 @@ function Navigation() {
   return (
     <Navbar expand={"lg"} container={true} fixed="top" className={bg}>
       <motion.div className="progress-barr" style={{ scaleX }} />
-      <NavbarBrand href="/">
-        <img alt="logo" src="/images/logo/logo-genexwifi-flatform.png" />
-      </NavbarBrand>
+      <Link href="/">
+        <NavbarBrand className="pointer">
+          <img alt="logo" src={url} />
+        </NavbarBrand>
+      </Link>
+
       <NavbarToggler onClick={toggle} />
       <Collapse navbar isOpen={isOpen}>
-        <Nav className="me-auto" navbar>
+        <Nav className="me-auto " navbar>
           <NavItem>
-            <NavLink href="/">Trang Chủ</NavLink>
+            <Link href="/">
+              <NavLink href="/" className={text}>
+                Trang Chủ
+              </NavLink>
+            </Link>
           </NavItem>
           <UncontrolledDropdown nav>
-            <DropdownToggle caret nav>
+            <DropdownToggle caret nav className={text}>
               Sản Phẩm
             </DropdownToggle>
             <DropdownMenu>
@@ -93,7 +106,7 @@ function Navigation() {
             </DropdownMenu>
           </UncontrolledDropdown>
           <UncontrolledDropdown inNavbar nav>
-            <DropdownToggle caret nav>
+            <DropdownToggle caret nav className={text}>
               Giải Pháp
             </DropdownToggle>
             <DropdownMenu>
@@ -114,7 +127,7 @@ function Navigation() {
             </DropdownMenu>
           </UncontrolledDropdown>
           <UncontrolledDropdown inNavbar nav>
-            <DropdownToggle caret nav>
+            <DropdownToggle caret nav className={text}>
               Case Study
             </DropdownToggle>
             <DropdownMenu>
@@ -127,19 +140,21 @@ function Navigation() {
             </DropdownMenu>
           </UncontrolledDropdown>
           <UncontrolledDropdown inNavbar nav>
-            <DropdownToggle caret nav>
+            <DropdownToggle caret nav className={text}>
               Documentation
             </DropdownToggle>
             <DropdownMenu>
               <DropdownItem>
-                <Link href="/wifimarketingplatform">
-                  Tài liệu Wifi Marketing Tích Hợp Các Hãng
-                </Link>
+                <Link href="/">Tài liệu Wifi Marketing Tích Hợp Các Hãng</Link>
               </DropdownItem>
             </DropdownMenu>
           </UncontrolledDropdown>
           <NavItem>
-            <NavLink href="/about">Về GENEX</NavLink>
+            <Link href="/about">
+              <NavLink href="/about" className={text}>
+                Về GENEX
+              </NavLink>
+            </Link>
           </NavItem>
         </Nav>
       </Collapse>

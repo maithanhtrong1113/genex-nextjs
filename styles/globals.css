@@ -13,11 +13,16 @@ html {
 .dropdown-item:active {
   background-color: #bac0c6 !important;
 }
+.carousel-indicators button {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 100% !important;
+}
 .navbarHome {
   background-color: #e8eaec !important;
 }
 .navbarHome1 {
-  background: linear-gradient(to right, rgb(175, 229, 229), rgb(106, 214, 214));
+  background-color: white;
 }
 .progress-barr {
   position: fixed;
