@@ -37,7 +37,7 @@ function Navigation() {
         setText("fw-bold ");
         setUrl("/images/logo/logo-genexwifi-flatform.png");
       } else {
-        setbg("navbarHome1 shadow ");
+        setbg("navbarHome1 shadow");
         // setText("text-white fw-bold");
         // setUrl("/images/logo/logo-genexwifi-flatform-footer.png");
       }

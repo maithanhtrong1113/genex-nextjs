@@ -19,7 +19,7 @@ html {
   border-radius: 100% !important;
 }
 .navbarHome {
-  background-color: #e8eaec !important;
+  background-color: #fefefe !important;
 }
 .navbarHome1 {
   background-color: white;
@@ -168,14 +168,6 @@ p {
 }
 .fables-after-overlay {
   position: relative;
-}
-.fables-after-overlay::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
   background-color: rgba(44, 62, 79, 0.8);
 }
 
@@ -197,7 +189,7 @@ p {
 .translate-effect-right1 img {
   max-width: none !important;
   width: calc(100% + 10px) !important;
-  /* transition: opacity 0.35s, transform 0.45s; */
+
   -webkit-transform: translate3d(-40px, 0, 0);
   transform: translate3d(-10px, 0, 0);
 }
